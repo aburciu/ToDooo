@@ -1,0 +1,112 @@
+.panel-position {
+	width: 40%;
+	margin:30px auto;
+}
+
+.panel-heading {
+	padding: 5px;
+	padding-bottom: 20px;
+	text-align: center;
+}
+
+.badge-green {
+	background-color: #5cb85c;
+}
+
+.badge-red {
+	background-color: #d9534f;
+}
+
+.duedate {
+	float:left;
+	margin-top: 15px;
+	font-size: 12px;
+	color: #5A5A5A;
+	width: 20%;	
+}
+
+hr.bottom-split {
+	margin-top: 30px;
+    border: 0;
+    border-bottom: 1px dashed #c0c0c0;
+    background: #f0f0f0;
+}
+
+.panel-body {
+	padding: 0px;
+}
+.form-group {
+	margin-bottom: 0px;
+}
+
+.form-groups {
+	padding: 15px
+}
+
+.bottom-bar {
+	padding-left: 15px;
+	padding-right: 15px;
+	padding-bottom: 10px;
+}
+
+.bottom-bar .left {
+	float: left;
+}
+
+.bottom-bar .right {
+	float: right;
+}
+
+.todo-list {
+	padding-top: 5px;
+}
+.btn-primary {
+	background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#4388C4), to(#2A6DA8));
+}
+
+h4.todo-title {
+	font-size: 13px;
+	font-weight: 800;
+}
+
+label {
+	margin-left: 5px;
+}
+
+.todo {
+	padding: 15px;
+	padding-top: 2px;
+	padding-bottom: 2px;
+}
+
+div.todo:nth-child(odd) {
+	background: #f5f5f5;
+}
+
+.label-info {
+	margin-top: 12px;
+	padding-top: 5px;
+}
+
+.block-div {
+	display: inline-block;
+	width: 100%;
+}
+
+.left-one {
+	float: left;
+	margin-top: 5px;
+	padding-left: 0px;
+	width: 60%;
+}
+
+.right-one {
+	float: left;
+	padding-right: 5px;
+	width: 20%;
+}
+
+.crossedOut {
+	text-decoration: line-through;
+	color: #A5A4A4;
+}
